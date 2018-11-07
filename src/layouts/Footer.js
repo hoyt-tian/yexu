@@ -9,7 +9,7 @@ const FooterView = () => (
       links={[
         {
           key: 'Powered By hoyt',
-          title: 'Powered By hoyt',
+          title: '技术支持：杭州巨梦科技有限公司',
           href: 'https://www.hoyt-tian.com/',
           blankTarget: true,
         },
@@ -28,7 +28,7 @@ const FooterView = () => (
       ]}
       copyright={
         <Fragment>
-          Copyright 杭州野栩网络科技有限公司 Since <Icon type="copyright" /> 2016
+          Copyright 浙江宠悦工贸有限公司 Since <Icon type="copyright" /> 2016
         </Fragment>
       }
     />
